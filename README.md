@@ -14,10 +14,6 @@ Testing shaders with react fiber.
 <br/>
 <br/>
 
-## Live Version
-
-
-
 ## Dev
 
 ### `yarn start`
